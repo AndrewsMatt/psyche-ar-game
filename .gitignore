@@ -30,9 +30,6 @@ rust_engine/pkg/
 .DS_Store
 Thumbs.db
 
-# Claude Code
-.claude/
-
 # Python artifacts
 __pycache__/
 *.pyc
